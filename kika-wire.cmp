@@ -1,0 +1,87 @@
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = саб, 19 апр 2014 19:53:12 CEST
+
+BeginCmp
+TimeStamp = /53503BA0;
+Reference = C1;
+ValeurCmp = 100n;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53503C5C;
+Reference = D1;
+ValeurCmp = 3V6;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53503C7C;
+Reference = D2;
+ValeurCmp = 3V6;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53503DEF;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53503B6F;
+Reference = IC1;
+ValeurCmp = ATTINY85-P;
+IdModule  = DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /5350427A;
+Reference = P1;
+ValeurCmp = USB-A;
+IdModule  = USB-A-PLUG-SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /53503D46;
+Reference = P2;
+ValeurCmp = CONN_3X2;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53503CE4;
+Reference = R1;
+ValeurCmp = 1K5;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53503BC7;
+Reference = R2;
+ValeurCmp = 68;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53503BE0;
+Reference = R3;
+ValeurCmp = 68;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53503D81;
+Reference = R4;
+ValeurCmp = 0 OHM;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53503DE0;
+Reference = R5;
+ValeurCmp = 330;
+IdModule  = SM0805;
+EndCmp
+
+EndListe
